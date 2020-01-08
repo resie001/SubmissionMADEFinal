@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="desc">Desc</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="title_movie_static">Title Movie</string>
+    <string name="title_show_static">Title TV Show</string>
+    <string name="release_date">Release Date</string>
+    <string name="movie_desc">Movie Description</string>
+    <string name="show_desc">TV Show Description</string>
+    <string name="setting">Setting</string>
+    <string name="tab_movie">Movie</string>
+    <string name="tab_show">TV Show</string>
+    <string name="poster">Poster</string>
+    <string name="tab_favorite">Favorite</string>
+    <string name="detail_movie">Movie Detail</string>
+    <string name="detail_show">TV Show Detail</string>
+    <string name="failed">Failed</string>
+    <string name="success">Successfully added to Favorites</string>
+    <string name="success_delete">Successfully removed from Favorites</string>
+    <string name="content_back_button">Button for Back</string>
+    <string name="content_favorite">Button for added/removed to/from Favorite</string>
+    <string name="content_poster">Showed movie/show poster</string>
+
+</resources>

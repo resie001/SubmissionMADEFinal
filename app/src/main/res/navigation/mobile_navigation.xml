@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_movie">
+
+    <fragment
+        android:id="@+id/navigation_movie"
+        android:name="org.d3ifcool.submission.view.MovieFragment"
+        android:label="@string/tab_movie"
+        tools:layout="@layout/fragment_movie" />
+    <fragment
+        android:id="@+id/navigation_show"
+        android:name="org.d3ifcool.submission.view.ShowFragment"
+        android:label="@string/tab_show"
+        tools:layout="@layout/fragment_show" />
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="org.d3ifcool.submission.view.FavoriteFragment"
+        android:label="@string/tab_favorite"
+        tools:layout="@layout/fragment_favorite" />
+</navigation>

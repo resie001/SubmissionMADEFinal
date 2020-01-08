@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title">Judul</string>
+    <string name="date">Tanggal</string>
+    <string name="desc">Desc</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="title_movie_static">Judul Film</string>
+    <string name="title_show_static">Judul Acara TV</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="movie_desc">Deskripsi Film</string>
+    <string name="show_desc">Deskripsi Acara TV</string>
+    <string name="setting">Pengaturan</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_show">Acara TV</string>
+    <string name="poster">Poster</string>
+    <string name="tab_favorite">Favorit</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="detail_show">Detail Acara TV</string>
+    <string name="failed">Gagal</string>
+    <string name="success">Berhasil Ditambahkan ke Favorit</string>
+    <string name="success_delete">Berhasil Hapus dari Favorit</string>
+    <string name="content_back_button">Button untuk kembali</string>
+    <string name="content_favorite">Button untuk tambah/hapus favorit</string>
+    <string name="content_poster">menampilkan poster movie/tv</string>
+
+
+</resources>
